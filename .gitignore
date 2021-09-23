@@ -1,0 +1,12 @@
+obj
+Logs
+Temp
+.idea
+*.sln
+.vscode
+Library
+*.csproj
+Packages
+.DS_Store
+iOS_Export
+UserSettings
